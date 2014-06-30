@@ -35,7 +35,6 @@ Days 3 and 4:Programming in kernel space.
 5. Kernel Debuggers: gdb, kdb, kgdb
 
 
-More information here: http://geeksofpune.in/lktraining.php
 
 Days 5 and 6: Embedded systems, network-storage stacks.
 
@@ -49,3 +48,5 @@ Days 5 and 6: Embedded systems, network-storage stacks.
 
 5. Tracing, profiling and other.
 
+
+More information here: http://geeksofpune.in/lktraining.php
